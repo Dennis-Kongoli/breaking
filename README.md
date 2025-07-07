@@ -1,5 +1,5 @@
 # Windmill
 ![windmill](/windmill.gif)
 
-# Baby Freeze With a Signature Point
-![baby freeze](/freeze.jpg)
+# Side Stab With a Signature Point
+![side stab](/freeze.jpg)
