@@ -2,4 +2,4 @@
 ![baby freeze](/freeze.jpg)
 
 # Windmill
-![windmill](/windmill.MOV)
+![windmill](/windmill.gif)
